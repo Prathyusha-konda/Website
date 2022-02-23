@@ -40,24 +40,24 @@ experiences:
           - Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer 
           - Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
           - MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data
-      
-projects:
-    title: RESEARCH EXPERIENCE
-    intro: > 
-    assignments:
-      - title: Ph.D. student, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada (2015 - 2022)
-        tagline: "Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer | Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy | MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
-       # tagline: "Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy"
-       # tagline: "MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
-
-      - title: Bachelor’s Thesis, Laboratory of Molecular Virology, IIT Madras, India (2013 - 2015)
-        tagline: "Finding downstream target genes of RASSFs in bladder cancer"
-        
-      - title: Summer Research Internship, National Centre for Biological Sciences, India (2014)
-        tagline: "ROCK localization in subcellular compartments of cancer cells upon radiation"
-        
-      - title: Summer Research Internship, Lab of Genomics and Profiling Applications, Centre for DNA Fingerprinting and Diagnostics, India (2013)
-        tagline: "Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system"
+          
+    - role: Bachelor’s Thesis, Laboratory of Molecular Virology
+      time: 2013 - 2015
+      company: IIT Madras, India
+      details: |
+          - Finding downstream target genes of RASSFs in bladder cancer 
+          
+     - role: Summer Research Internship
+      time: 2014 - 2014
+      company: National Centre for Biological Sciences, India
+      details: |
+          - ROCK localization in subcellular compartments of cancer cells upon radiation
+          
+    - role: Summer Research Internship, Lab of Genomics and Profiling Applications
+      time: 2013 - 2013
+      company: Centre for DNA Fingerprinting and Diagnostics, India
+      details: |
+          - Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system
         
 publications:
     title: Publications

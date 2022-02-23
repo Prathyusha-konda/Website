@@ -33,10 +33,11 @@ education:
       time: 2011 - 2015
       
 experiences:
-    - role: Ph.D. student, Laboratory for Cancer Biology, Metabolism & Immunotherapy
+    - role: Ph.D. student
       time: 2015 - 2022
       company: Dalhousie University, Canada
       details: |
+          Laboratory for Cancer Biology, Metabolism & Immunotherapy
           - Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer 
           - Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
           - MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data

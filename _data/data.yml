@@ -42,10 +42,11 @@ experiences:
           - Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
           - MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data
           
-    - role: Bachelor’s Thesis, Laboratory of Molecular Virology
+    - role: Bachelor’s Thesis
       time: 2013 - 2015
       company: IIT Madras, India
       details: |
+          Laboratory of Molecular Virology
           - Finding downstream target genes of RASSFs in bladder cancer 
           
     - role: Summer Research Internship
@@ -54,10 +55,11 @@ experiences:
       details: |
           - ROCK localization in subcellular compartments of cancer cells upon radiation
           
-    - role: Summer Research Internship, Lab of Genomics and Profiling Applications
+    - role: Summer Research Internship
       time: 2013 - 2013
       company: Centre for DNA Fingerprinting and Diagnostics, India
       details: |
+          Lab of Genomics and Profiling Applications
           - Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system
         
 publications:

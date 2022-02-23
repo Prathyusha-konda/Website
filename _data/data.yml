@@ -77,30 +77,44 @@ publications:
         link: "https://pubmed.ncbi.nlm.nih.gov/32124318/"
         authors: Konda P, Murphy J P, Gujar S.
         conference: Methods in Molecular Biology Bioinformatics. 2020. 
+        
+      - title: Near-infrared absorbing Ru (ii) complexes act as immunoprotective photodynamic therapy (PDT) agents against aggressive melanoma.
+        link: "https://pubmed.ncbi.nlm.nih.gov/33976756/"
+        authors: Lifshits L M *, Roque III J A *, Konda P*,  Monro S, Cole HD, von Dohlen D, Kim S, Deep G, Thummel RP, Cameron C G, Gujar S & McFarland S A.
+        conference: Chemical Science. 2020. [IF=9.825]
+        
+      - title: Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy.
+        link: "https://pubmed.ncbi.nlm.nih.gov/33457082/"
+        authors: Konda P*, Lifshits L M*, Roque III J A*, Cole H D, Cameron C G, McFarland S A & Gujar S.
+        conference: OncoImmunology. 2011. [IF=8.11]
+        
+      - title: Photodynamic therapy of melanoma with new, structurally similar, NIR-absorbing ruthenium (II) complexes promotes tumor growth control via distinct hallmarks of immunogenic cell death.
+        link: "https://pubmed.ncbi.nlm.nih.gov/35141014/"
+        authors: 7.	Konda P*, Roque III J A*, Lifshits L M*, Alcos A, Azzam E, Shi G, Cameron C G, McFarland S A & Gujar S.
+        conference: American Journal of Cancer Research. 2022. [IF=6.17]
 
        
+#skills:
+ #   title: Skills &amp; Proficiency
 
-skills:
-    title: Skills &amp; Proficiency
+  #  toolset:
+   #   - name: Python & Django
+    #    level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  #    - name: Javascript & jQuery
+   #     level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+    #  - name: Angular
+     #   level: 98%
 
-      - name: Angular
-        level: 98%
+      #- name: HTML5 & CSS
+       # level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+      #- name: Ruby on Rails
+       # level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      #- name: Sketch & Photoshop
+       # level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

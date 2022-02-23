@@ -59,15 +59,16 @@ publications:
       First author Publications
     papers:
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data: Implications for T-Cell Immunotherapies. 
-        link: "https://pubs.acs.org/doi/10.1021/acs.jproteome.6b00971"
+        link: "https://pubmed.ncbi.nlm.nih.gov/28244318/"
         authors: Murphy J*, Konda P*, Kowalewski DJ, Schuster H, Clements D, Kim Y, Cohen A M, Sharif T, Nielsen M, Stevanovic S, Lee P W & Gujar S.
         conference: Journal of Proteome Research. 2017. ACS editor’s choice article 2016-2017. [IF=4.466]
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
+      - title: Improving MHC-I Ligand Identifications from LC-MS/MS Data by Incorporating Allelic Peptide Motifs.
+        link: "https://pubmed.ncbi.nlm.nih.gov/30710433/"
+        authors: Konda P, Murphy J P, Gujar S.
+        conference: Proteomics. 2019. [IF=3.984]
        
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
+
        
 
 skills:

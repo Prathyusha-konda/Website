@@ -31,7 +31,6 @@ education:
     - degree: B.Tech. in Biotechnology
       university: Indian Institute of Technology Madras
       time: 2011 - 2015
-
 projects:
     title: RESEARCH EXPERIENCE
     intro: > 
@@ -49,8 +48,6 @@ projects:
         
       - title: Summer Research Internship, Lab of Genomics and Profiling Applications, Centre for DNA Fingerprinting and Diagnostics, India (2013)
         tagline: "Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system"
-
-
 publications:
     title: Publications
     intro: First author Publications

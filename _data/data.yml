@@ -67,7 +67,16 @@ publications:
         link: "https://pubmed.ncbi.nlm.nih.gov/30710433/"
         authors: Konda P, Murphy J P, Gujar S.
         conference: Proteomics. 2019. [IF=3.984]
-       
+        
+      - title: Enhancing Mass Spectrometry-Based MHC-I Peptide Identification Through a Targeted Database Search Approach.
+        link: "https://pubmed.ncbi.nlm.nih.gov/31364058/"
+        authors: Konda P, Murphy J P, Neilsen M, Gujar S.
+        conference: Methods in Molecular Biology Immunoproteomics, second edition. 2019.
+        
+      - title: Improving MHC-I ligand identification by incorporating targeted searches of mass spectrometry data.
+        link: "https://pubmed.ncbi.nlm.nih.gov/32124318/"
+        authors: Konda P, Murphy J P, Gujar S.
+        conference: Methods in Molecular Biology Bioinformatics. 2020. 
 
        
 

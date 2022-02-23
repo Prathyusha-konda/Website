@@ -34,9 +34,7 @@ education:
 
 projects:
     title: RESEARCH EXPERIENCE
-    intro: >
-      
-      section. 
+    intro: > 
     assignments:
       - title: Ph.D. student, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada (2015 - 2022)
         tagline: "Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer | Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy | MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
@@ -55,8 +53,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      First author Publications
+    intro: First author Publications
     papers:
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data- Implications for T-Cell Immunotherapies. 
         link: "https://pubmed.ncbi.nlm.nih.gov/28244318/"

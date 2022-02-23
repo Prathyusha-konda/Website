@@ -48,17 +48,16 @@ education:
           - Bullet point
 
 projects:
-    title: 
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section. 
     assignments:
       - title: Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 

@@ -50,8 +50,8 @@ projects:
         tagline: "Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system"
         
 publications:
-    title:  Publications
-    intro:  |
+    title: Publications
+    intro: |
         First author Publications
     papers:
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data- Implications for T-Cell Immunotherapies. 
@@ -89,7 +89,7 @@ publications:
         authors: 7.	Konda P*, Roque III J A*, Lifshits L M*, Alcos A, Azzam E, Shi G, Cameron C G, McFarland S A & Gujar S.
         conference: American Journal of Cancer Research. 2022. [IF=6.17]
         
-     intro: Co-author Publications
+     
 
        
 #skills:

@@ -27,51 +27,35 @@ education:
     - degree: Ph.D. in Cancer Immunology
       university: Dalhousie University
       time: 2015 - 2022
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
     - degree: B.Tech. in Biotechnology
       university: Indian Institute of Technology Madras
       time: 2011 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 projects:
-    title: Projects
+    title: RESEARCH EXPERIENCE
     intro: >
       You can list your side projects or open source libraries in this
       section. 
     assignments:
       - title: Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
 
       - title: Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data
+        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Finding downstream target genes of RASSFs in bladder cancer
+        tagline: "Bachelor’s Thesis, Laboratory of Molecular Virology, IIT Madras, India "
+        
+      - title: ROCK localization in subcellular compartments of cancer cells upon radiation
+        tagline: "National Centre for Biological Sciences, India"
+        
+      - title: ROCK localization in subcellular compartments of cancer cells upon radiation
+        tagline: "National Centre for Biological Sciences, India"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications

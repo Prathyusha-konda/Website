@@ -38,23 +38,19 @@ projects:
       
       section. 
     assignments:
-      - title: Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer
-        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
+      - title: Ph.D. student, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada (2015-22)
+        tagline: "Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer"
+        tagline: "Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy"
+        tagline: "MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
 
-      - title: Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
-        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
-
-      - title: MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data
-        tagline: "Ph.D. Project, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada"
-
-      - title: Finding downstream target genes of RASSFs in bladder cancer
-        tagline: "Bachelor’s Thesis, Laboratory of Molecular Virology, IIT Madras, India (2013-2015)"
+      - title: Bachelor’s Thesis, Laboratory of Molecular Virology, IIT Madras, India (2013-2015)
+        tagline: "Finding downstream target genes of RASSFs in bladder cancer"
         
-      - title: ROCK localization in subcellular compartments of cancer cells upon radiation
-        tagline: "Summer Research Internship, National Centre for Biological Sciences, India (2014)"
+      - title: Summer Research Internship, National Centre for Biological Sciences, India (2014)
+        tagline: "ROCK localization in subcellular compartments of cancer cells upon radiation"
         
-      - title: Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system
-        tagline: "Summer Research Internship, 4.	Lab of Genomics and Profiling Applications, Centre for DNA Fingerprinting and Diagnostics, India (2013)"
+      - title: Summer Research Internship, Lab of Genomics and Profiling Applications, Centre for DNA Fingerprinting and Diagnostics, India (2013)
+        tagline: "Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system"
 
 
 publications:

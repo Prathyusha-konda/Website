@@ -33,7 +33,7 @@ education:
       time: 2011 - 2015
       
 experiences:
-    title: Research Experience
+    #title: Research Experience
     - role: Ph.D. student
       time: 2015 - 2022
       company: Dalhousie University, Canada

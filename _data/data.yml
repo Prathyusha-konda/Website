@@ -40,8 +40,8 @@ projects:
     assignments:
       - title: Ph.D. student, Laboratory for Cancer Biology, Metabolism & Immunotherapy, Dalhousie University, Canada (2015 - 2022)
         tagline: "Discovery of novel near IR-activated photosensitizers and understanding their immunological aspects for Photodynamic Therapy of Cancer"
-        tagline: "Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy"
-        tagline: "MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
+      #  tagline: "Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy"
+       # tagline: "MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data"
 
       - title: Bachelor’s Thesis, Laboratory of Molecular Virology, IIT Madras, India (2013 - 2015)
         tagline: "Finding downstream target genes of RASSFs in bladder cancer"

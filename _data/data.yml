@@ -50,8 +50,9 @@ projects:
         tagline: "Epigenetic Modifications during Plant-Fungal Interactions in Chilli-Colletotrichum system"
         
 publications:
-    title: Publications
-    intro: First author Publications
+    title:  Publications
+    intro:  |
+        First author Publications
     papers:
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data- Implications for T-Cell Immunotherapies. 
         link: "https://pubmed.ncbi.nlm.nih.gov/28244318/"

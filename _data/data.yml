@@ -34,7 +34,7 @@ education:
       
 experiences:
     #title: Research Experience
-    - role: Ph.D. Student
+    - role: Doctoral Candidate
       time: 2015 - 2022
       company: Dalhousie University, Canada
       details: |
@@ -43,8 +43,8 @@ experiences:
           - Studying Sex-biased Immune Responses in Oncolytic Reovirus based Anti-Cancer Immunotherapy
           - MHC-I ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data
           
-    - role: Bachelor’s Thesis
-      time: 2013 - 2015
+    - role: Undergraduate Student Researcher, Bachelors Thesis
+      time: 2014 - 2015
       company: IIT Madras, India
       details: |
           Laboratory of Molecular Virology

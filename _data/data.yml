@@ -34,7 +34,7 @@ education:
       
 experiences:
     #title: Research Experience
-    - role: Ph.D. student
+    - role: Ph.D. Student
       time: 2015 - 2022
       company: Dalhousie University, Canada
       details: |
@@ -100,7 +100,7 @@ publications:
         
       - title: Photodynamic therapy of melanoma with new, structurally similar, NIR-absorbing ruthenium (II) complexes promotes tumor growth control via distinct hallmarks of immunogenic cell death.
         link: "https://pubmed.ncbi.nlm.nih.gov/35141014/"
-        authors: 7.	Konda P*, Roque III J A*, Lifshits L M*, Alcos A, Azzam E, Shi G, Cameron C G, McFarland S A & Gujar S.
+        authors: Konda P*, Roque III J A*, Lifshits L M*, Alcos A, Azzam E, Shi G, Cameron C G, McFarland S A & Gujar S.
         conference: American Journal of Cancer Research. 2022. [IF=6.17]
         
      

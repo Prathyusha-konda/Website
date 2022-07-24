@@ -29,12 +29,20 @@ career-profile:
       My hobbies include reading books, going out into the nature, painting, and having good food with good people. Check out what I am currently reading here <a href="https://www.goodreads.com/user/show/100071346-prathyusha"><b><u>Goodreads</u></b></a> and my artwork here <a href="https://www.instagram.com/doodlephd/"><b><u>DoodlePhD</u></b></a>. Thanks for dropping by.
 education:
     #title: Education/ Professional Training
+    - degree: Postdoctoral Fellow, Medicine
+      university: Harvard Medical School, USA
+      time: 2022 - current
+      
+    - degree: Postdoctoral Fellow, Medical Oncology
+      university: Dana-Farber Cancer Institute, USA
+      time: 2022 - current  
+            
     - degree: Ph.D., Department of Microbiology & Immunology
       university: Dalhousie University, Canada
       time: 2015 - 2022
     
     - degree: B.Tech., Biotechnology
-      university: Indian Institute of Technology Madras, India
+      university: Indian Institute of Technology (IIT) Madras, India
       time: 2011 - 2015
       
 experiences:

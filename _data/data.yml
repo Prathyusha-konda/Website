@@ -79,7 +79,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-        First author publications only
+        First author works only (check <a href="https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=LMu60kjth8EC&sortby=pubdate"><b><u>Google Scholar</u></b></a> for all publications)
     papers:
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data- Implications for T-Cell Immunotherapies. 
         link: "https://pubmed.ncbi.nlm.nih.gov/28244318/"

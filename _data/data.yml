@@ -12,7 +12,7 @@ sidebar:
     avatar: ProfilePic_2023_2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: prathyusha{_}konda{@}dfci{.}harvard{.}edu
+    #email: prathyusha{_}konda{@}dfci{.}harvard{.}edu
     linkedin: prathyusha-konda-ph-d-3240385a
     github: Prathyusha-konda
     twitter: '@labratprats'

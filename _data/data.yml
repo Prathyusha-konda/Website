@@ -115,6 +115,11 @@ publications:
     intro: |
         check <a href="https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=LMu60kjth8EC&sortby=pubdate"><b><u>Google Scholar</u></b></a> for all publications
     papers:
+      - title: Genome-guided Discovery of Cancer Therapeutic Targets.
+        link: "https://pubmed.ncbi.nlm.nih.gov/37572322/"
+        authors: Konda P*, Garinet S*, VanAllen E, & Viswanathan SR.
+        conference: Cell Reports. 2023. [IF=9.99]
+    
       - title: Androgen Receptor How splicing confers treatment resistance in prostate cancer.
         link: "https://elifesciences.org/articles/82070"
         authors: Konda P & Viswanathan S.

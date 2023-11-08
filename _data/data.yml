@@ -22,11 +22,11 @@ sidebar:
 career-profile:
     title: Hi!
     summary: |
-      Hello! I'm a postdoctoral researcher at Dana-Farber Cancer Institute / Harvard Medical School, where I'm currently studying rare subtypes of kidney cancer with a focus on developing personalized cancer immunotherapies, by utilizing bioinformatics, immunology, and functional genetics approaches.  I recently completed my Ph.D. in the Department of Microbiology & Immunology at Dalhousie University, with <a href="https://dalspace.library.dal.ca/handle/10222/81529"><b><u>thesis work</u></b></a> focused on cancer immunology -- mass spectrometry based tumor antigen discovery for cancer vaccines, and the development of novel immunogenic photodynamic therapies for melanoma, with a particular emphasis on enhancing T cell mediated immune responses.
+      I am a cancer immunologist and bioinformatician with expertise in various wet lab (immunology/molecular biology) and dry lab (single-cell RNA/ATAC, bulk-RNA/Exome, ChIRP-seq) approaches. My current research is focused on characterizing the tumor-intrinsic and extrinsic determinants of therapeutic responses in rare kidney cancers and developing personalized immuno/combination therapies.  I recently completed my Ph.D. in Immunology at Dalhousie University, with <a href="https://dalspace.library.dal.ca/handle/10222/81529"><b><u>thesis work</u></b></a> focused on -- 1) mass spectrometry-based tumor antigen discovery for cancer vaccines, and 2) the development of novel immunogenic photodynamic therapies for melanoma, with a particular emphasis on enhancing T cell-mediated immune responses.
       
-      Apart from my academic interests, I am a strong advocate for promoting graduate student mental health and equality. In this regard, I was actively involved in creating the Graduate Student Peer Support Network at Dalhousie University. I am always available for discussions on science or mental health.
+      Apart from my academic interests, I am a strong advocate for promoting graduate student mental health and gender equality. In this regard, I was actively involved in creating the Graduate Student Peer Support Network at Dalhousie University. I am always available for discussions on science, women empowerment, or mental health. Please feel free to reach out to me!
       
-      In my leisure time, I enjoy reading books, going for nature walks, painting, and indulging in good food with good company. You can check out my current reading list on <a href="https://www.goodreads.com/user/show/100071346-prathyusha"><b><u>Goodreads</u></b></a> and my artwork on <a href="https://www.instagram.com/doodlephd/"><b><u>DoodlePhD</u></b></a>. Thank you for visiting.
+      In my leisure time, I enjoy reading books, exploring nature, painting, and indulging in good food with good company. You can check out my current reading list on <a href="https://www.goodreads.com/user/show/100071346-prathyusha"><b><u>Goodreads</u></b></a> and my artwork on <a href="https://www.instagram.com/doodlephd/"><b><u>DoodlePhD</u></b></a>. Thank you for visiting.
 
 education:
     #title: Education and Professional training
@@ -118,27 +118,27 @@ publications:
       - title: Genome-guided Discovery of Cancer Therapeutic Targets.
         link: "https://pubmed.ncbi.nlm.nih.gov/37572322/"
         authors: Konda P*, Garinet S*, VanAllen E, & Viswanathan SR.
-        conference: Cell Reports. 2023. [IF=9.99]
+        conference: Cell Reports. 2023. 
     
       - title: Androgen Receptor How splicing confers treatment resistance in prostate cancer.
         link: "https://elifesciences.org/articles/82070"
         authors: Konda P & Viswanathan S.
-        conference: eLife Insight Article. 2022. [IF=8.71]
+        conference: eLife Insight Article. 2022. 
         
       - title: Photodynamic therapy of melanoma with new, structurally similar, NIR-absorbing ruthenium (II) complexes promotes tumor growth control via distinct hallmarks of immunogenic cell death.
         link: "https://pubmed.ncbi.nlm.nih.gov/35141014/"
         authors: Konda P*, Roque III J A*, Lifshits L M*, Alcos A, Azzam E, Shi G, Cameron C G, McFarland S A & Gujar S.
-        conference: American Journal of Cancer Research. 2022. [IF=6.17]
+        conference: American Journal of Cancer Research. 2022. 
         
       - title: Discovery of immunogenic cell death-inducing ruthenium-based photosensitizers for anticancer photodynamic therapy.
         link: "https://pubmed.ncbi.nlm.nih.gov/33457082/"
         authors: Konda P*, Lifshits L M*, Roque III J A*, Cole H D, Cameron C G, McFarland S A & Gujar S.
-        conference: OncoImmunology. 2021. [IF=8.11]
+        conference: OncoImmunology. 2021. 
         
       - title: Near-infrared absorbing Ru (ii) complexes act as immunoprotective photodynamic therapy (PDT) agents against aggressive melanoma.
         link: "https://pubmed.ncbi.nlm.nih.gov/33976756/"
         authors: Lifshits L M *, Roque III J A *, Konda P*,  Monro S, Cole HD, von Dohlen D, Kim S, Deep G, Thummel RP, Cameron C G, Gujar S & McFarland S A.
-        conference: Chemical Science. 2020. [IF=9.96]
+        conference: Chemical Science. 2020.
         
       - title: Improving MHC-I ligand identification by incorporating targeted searches of mass spectrometry data.
         link: "https://pubmed.ncbi.nlm.nih.gov/32124318/"
@@ -153,12 +153,12 @@ publications:
       - title: Improving MHC-I Ligand Identifications from LC-MS/MS Data by Incorporating Allelic Peptide Motifs.
         link: "https://pubmed.ncbi.nlm.nih.gov/30710433/"
         authors: Konda P, Murphy J P, Gujar S.
-        conference: Proteomics. 2019. [IF=3.98]
+        conference: Proteomics. 2019. 
         
       - title: MHC-I Ligand Discovery Using Targeted Database Searches of Mass Spectrometry Data- Implications for T-Cell Immunotherapies. 
         link: "https://pubmed.ncbi.nlm.nih.gov/28244318/"
         authors: Murphy J*, Konda P*, Kowalewski DJ, Schuster H, Clements D, Kim Y, Cohen A M, Sharif T, Nielsen M, Stevanovic S, Lee P W & Gujar S.
-        conference: Journal of Proteome Research. 2017. ACS editor’s choice article 2016-2017. [IF=5.37]
+        conference: Journal of Proteome Research. 2017. ACS editor’s choice article 2016-2017. 
         
         
 projects:

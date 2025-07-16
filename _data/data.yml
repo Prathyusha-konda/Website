@@ -24,7 +24,7 @@ career-profile:
     summary: |
       I am a postdoctoral fellow at <a href="https://www.dana-farber.org/research/departments-centers/medical-oncology"><b><u>Dana-Farber Cancer Institute</u></b></a> in the Department of Medical Oncology. I combine experimental and computational approaches to uncover the biological mechanisms driving therapeutic resistance and immune responses in rare and treatment-refractory kidney cancers. My work integrates immunology, cancer genetics, and translational genomics to develop personalized immunotherapies and combination treatments. I am also deeply committed to fostering collaboration and mentorship in scientific research.
       
-      I completed my PhD in Cancer Immunology from <a href="https://www.dal.ca/"><b><u>Dalhousie University</u></b></a>, where my <a href="https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=1340915557"><b><u>thesis</u></b></a> focused on developing mass-spectrometry based approaches for tumor antigen discovery for cancer vaccines, and immunogenic photodynamic therapies to enhance T cell–mediated responses in melanoma. I hold a Bachelor's degree in Biotechnology (currently: Biological Engineering) from the <a href="https://www.iitm.ac.in/"><b><u>Indian Institute of Technology Madras</u></b></a>.
+      I completed my PhD in Cancer Immunology from <a href="https://www.dal.ca/"><b><u>Dalhousie University</u></b></a>, where my <a href="https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=1340915557"><b><u>thesis</u></b></a> focused on developing mass-spectrometry based approaches for tumor antigen discovery, and immunogenic photodynamic therapies to enhance T cell-mediated immune responses in mouse melanoma models. I hold a Bachelor's degree in Biotechnology from the <a href="https://www.iitm.ac.in/"><b><u>Indian Institute of Technology Madras</u></b></a>.
       
       Beyond research, I actively advocate for improved mentorship, gender equity, and graduate student mental health. I currently serve in leadership roles within postdoctoral associations and previously co-founded the Graduate Student Peer Support Network at Dalhousie. I'm always happy to connect on science, mentorship, or advocacy.
       
@@ -32,19 +32,19 @@ career-profile:
 
 education:
     #title: Education and Professional training
-    - degree: Postdoctoral Fellow., Medicine
+    - degree: Postdoctoral Fellow, Medicine
       university: Harvard Medical School, USA
       time: 2022 - current
       
-    - degree: Postdoctoral Fellow., Medical Oncology
+    - degree: Postdoctoral Fellow, Medical Oncology
       university: Dana-Farber Cancer Institute, USA
       time: 2022 - current  
             
-    - degree: Ph.D., Microbiology & Immunology
+    - degree: PhD, Microbiology & Immunology
       university: Dalhousie University, Canada
       time: 2015 - 2022
     
-    - degree: B.Tech., Biotechnology
+    - degree: B.Tech, Biotechnology
       university: Indian Institute of Technology (IIT) Madras, India
       time: 2011 - 2015
       
@@ -55,7 +55,7 @@ experiences:
       company: Department of Defense, Congressionally Directed Medical Research Programs, USA
     
     - role: Faculty of Medicine Excellence in Research Award
-      time: 2021-
+      time: 2021-2021
       company: Dalhousie University, Canada
       
     - role: Dalhousie Medical Research Foundation-I3V Graduate Studentship
@@ -67,7 +67,7 @@ experiences:
       company: Isaac Killam Foundation, Canada
 
     - role: President’s Award
-      time: 2019-
+      time: 2019-2019
       company: Dalhousie University, Canada
       
     - role: Scotia Scholars Doctoral Scholarship
